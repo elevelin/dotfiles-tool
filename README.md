@@ -47,13 +47,13 @@ Dotfiles are critical for your development environment. This tool gives you:
 -Quick disaster recovery for local dev setups
 
 ## ✅ Roadmap Ideas
-Git sync (push/pull dotfiles to a private repo)
+-Git sync (push/pull dotfiles to a private repo)
 
-Custom dotfile list support
+-Custom dotfile list support
 
-Schedule with cron or launchd
+-Schedule with cron or launchd
 
-📁 Files Included
+## 📁 Files Included
 ```bash
 
 dotfiles-tool/
