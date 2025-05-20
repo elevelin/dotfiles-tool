@@ -20,7 +20,7 @@ A lightweight Python CLI tool that backs up your important configuration files (
 git clone https://github.com/elevelin/dotfiles-tool.git
 cd dotfiles-tool
 ```
-2. Run the tool
+### 2. Run the tool
 
 Backup dotfiles:
 
@@ -37,7 +37,7 @@ Restore from archive:
 ```bash
 python3 dotfiles_tool.py --restore --archive backups/dotfiles-YYYY-MM-DD.tar.gz
 ```
-🧠 Why Use This?
+## 🧠 Why Use This?
 Dotfiles are critical for your development environment. This tool gives you:
 
 -Version control-friendly backups
@@ -46,7 +46,7 @@ Dotfiles are critical for your development environment. This tool gives you:
 
 -Quick disaster recovery for local dev setups
 
-✅ Roadmap Ideas
+## ✅ Roadmap Ideas
 Git sync (push/pull dotfiles to a private repo)
 
 Custom dotfile list support
